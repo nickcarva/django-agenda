@@ -1,5 +1,5 @@
 # django-agenda
-A simple agenda built with Django
+A contacts agenda built with Django
 
 #### Run the under script to freeze the dependencies
 
