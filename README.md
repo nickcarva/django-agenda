@@ -6,6 +6,8 @@ A contacts agenda built with Django.
 - python -m venv venv
 - . ./venv/bin/activate
 - pip install -r requirements.txt
+- python manage.py makemigrations
+- python manage.py migrate
 - python manage.py runserver
 
 #### Run the under script to freeze the dependencies:

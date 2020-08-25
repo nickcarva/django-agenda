@@ -21,7 +21,7 @@ def login(request):
         return render(request, 'accounts/login.html')
 
     auth.login(request, user)
-    messages.success(request, 'Logado com sucesso')
+    messages.success(request, 'Logado com sucesso!')
     return redirect('dashboard')
 
 
