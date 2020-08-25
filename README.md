@@ -1,5 +1,5 @@
 # django-agenda
-A contacts agenda built with Django
+A contacts agenda built with Django.
 
 #### Scripts to run the server:
 
